@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="some class work from week 2 through 4.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/CompoundInterest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/Cookies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/SalesPrediction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/StringManipulator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/Magic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RomanNumerals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week04/number.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662649980989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some class work from week 2 through 4.">
+      <created>1663853933538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663853933538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
