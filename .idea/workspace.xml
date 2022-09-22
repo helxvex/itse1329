@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="add work">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/StarPattern.kt" afterDir="false" />
+    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="some class work from week 2 through 4.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/CompoundInterest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/Cookies.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/SalesPrediction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week02/StringManipulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/Magic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/RomanNumerals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week04/number.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -22,6 +33,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2EUM5S55g8T1P6jlDRGmlrNae5l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +48,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/florencio/IdeaProjects/itse1329/src/main/kotlin"
+    "last_opened_file_path": "/Users/florencio/IdeaProjects/itse1329/src/main/kotlin",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add work" />
-    <option name="LAST_COMMIT_MESSAGE" value="add work" />
+    <MESSAGE value="some class work from week 2 through 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="some class work from week 2 through 4." />
   </component>
 </project>
