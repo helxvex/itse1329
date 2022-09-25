@@ -23,6 +23,10 @@ fun main(args: Array<String>) {
 }
 /*
 pseudocode code :
-Have
+first I need to get user input, So use either an import with scanner, or use readline()
+then I name the scanner to "n".
+I print the line ("Enter a number from 1-10") to ask the user.
+I use the `when` function to "n" so if user input a number from 1-10, it gives out the roman numeral
+If user gives a number that is not part of the input , it will give an error  in an  `else` saying("Error. Entered number is not in range [1-10]"),
 
  */
