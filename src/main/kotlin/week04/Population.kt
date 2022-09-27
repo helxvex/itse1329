@@ -17,6 +17,6 @@ package week04
         println("  1           "+ numOfOrganisms)
         for (i in 2 until days + 1) {
             numOfOrganisms += 0.let { rate *= it; numOfOrganisms }
-            println("  " + i + "           " + numOfOrganisms + "                " +  (rate* 100) + "%")
+            println("  " + i + "           " + numOfOrganisms + "                " +  (rate* 100 ) + "%")
         }
     }
