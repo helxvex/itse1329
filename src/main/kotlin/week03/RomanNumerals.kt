@@ -1,11 +1,10 @@
 package week03
 // Florencio Rueda 3.1 Roman Numerals 09/20/22
-import java.util.*
+
 
 fun main(args: Array<String>) {
-    val `in` = Scanner(System.`in`)
     println("Enter a number from 1-10: ")
-    val n = `in`.nextInt()
+    var n = Integer.valueOf(readLine())
 
     when (n) {
         1 -> println("I")

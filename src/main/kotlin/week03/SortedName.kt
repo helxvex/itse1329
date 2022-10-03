@@ -1,18 +1,14 @@
 package week03
 //Florencio rueda 3.5 Sorted Names  9/22/22
-import java.util.*
-
     fun main(args: Array<String>) {
-        val name1: String
-        val name2: String
-        val name3: String
-        val input = Scanner(System.`in`)
+
         println("Enter First name")
-        name1 = input.nextLine()
+    val name1 = readLine()!!
         println("Enter Second name")
-        name2 = input.nextLine()
+    val name2 = readLine()!!
         println("Enter third name")
-        name3 = input.nextLine()
+    val name3 = readLine()!!
+
         if (name1.compareTo(name2) < 0) {
             if (name2.compareTo(name3) < 0) {
                 println("$name1,$name2 and $name3")

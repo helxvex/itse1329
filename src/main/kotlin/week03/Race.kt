@@ -1,20 +1,18 @@
 package week03
 //Florencio rueda  3.6 Running the Race  9/22/24
-import java.util.*
+
 
     fun main(args: Array<String>) {
-        val scan = Scanner(System.`in`)
+
         println("Enter Name and then time:")
-        val runner1 = scan.nextLine()
-        val time1 = scan.nextInt()
-        val scan2 = Scanner(System.`in`)
+        var runner1 = readLine()!!
+        var time1 = Integer.valueOf(readLine())
         println("Enter Name and then time:")
-        val runner2 = scan2.nextLine()
-        val time2 = scan2.nextInt()
-        val scan3 = Scanner(System.`in`)
+        var runner2 = readLine()!!
+        var time2 = Integer.valueOf(readLine())
         println("Enter Name and then time:")
-        val runner3 = scan3.nextLine()
-        val time3 = scan3.nextInt()
+        var runner3 = readLine()!!
+        var time3 = Integer.valueOf(readLine())
         println("Runner:$runner1 Time:$time1")
         println("Runner:$runner2 Time:$time2")
         println("Runner:$runner3 Time:$time3")

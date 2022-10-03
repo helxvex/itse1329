@@ -1,10 +1,10 @@
 package week02
 // Florencio Rueda 2.9 Compound Interest 09/15/22
-import java.util.Scanner
+
 import kotlin.math.pow
 
 fun main(args: Array<String>) {
-    val scanner = Scanner(System.`in`)
+
 
     println("How much money do you have on your account?")
     var P = Integer.valueOf(readLine())

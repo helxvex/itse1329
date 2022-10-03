@@ -1,11 +1,9 @@
 package week03
 //Florencio rueda 3.4 Mass and Weight  9/22/22
-import java.util.*
 
     fun main(args: Array<String>) {
-        val `in` = Scanner(System.`in`)
         println("Enter your mass:")
-        val mass = `in`.nextDouble()
+        var mass = Integer.valueOf(readLine())
 
         val Weight: Double
         Weight = mass * 9.8
