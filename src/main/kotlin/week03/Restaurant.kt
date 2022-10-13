@@ -1,16 +1,14 @@
 package week03
 //Florencio rueda  3.7 Restaurant Selector  9/22/24
-import java.util.*
 
     fun main(args: Array<String>) {
         val choice = arrayOf("", "", "")
-        val n = Scanner(System.`in`)
-        println("Is anyone at your party vegetarian:")
-        choice[0] = n.nextLine()
-        println("Is anyone at your party a vegan:")
-        choice[1] = n.nextLine()
-        println("Is anyone at your party gluten free:")
-        choice[2] = n.nextLine()
+        println("Is anyone at your party vegetarian: yes or no")
+        choice[0] = readln()
+        println("Is anyone at your party a vegan: yes or no")
+        choice[1] = readln()
+        println("Is anyone at your party gluten free: yes or no")
+        choice[2] = readln()
         println("Here are your restaurant choices:")
         if (choice[0].equals("yes", ignoreCase = true) && choice[1].equals(
                 "yes",
