@@ -4,7 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="week 5 add" />
+    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="some class work from week 2 through 4." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
         <option value="Class" />
-        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -26,8 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-    <option name="showPreview" value="true" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2EUM5S55g8T1P6jlDRGmlrNae5l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/florencio/IdeaProjects/itse1329/src/main/kotlin&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/florencio/IdeaProjects/itse1329/src/main/kotlin",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
@@ -82,140 +81,7 @@
       <option name="project" value="LOCAL" />
       <updated>1663854835084</updated>
     </task>
-    <task id="LOCAL-00004" summary="some class work from week 2 through 4.">
-      <created>1663855198424</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1663855198424</updated>
-    </task>
-    <task id="LOCAL-00005" summary="some class work from week week 3">
-      <created>1664072433098</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1664072433098</updated>
-    </task>
-    <task id="LOCAL-00006" summary="homework for both week 3 and all of week 4.">
-      <created>1664146794893</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1664146794893</updated>
-    </task>
-    <task id="LOCAL-00007" summary="no longer using the scanner">
-      <created>1664252553391</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1664252553391</updated>
-    </task>
-    <task id="LOCAL-00008" summary="no longer using the scanner">
-      <created>1664254979781</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1664254979781</updated>
-    </task>
-    <task id="LOCAL-00009" summary="code into kotlin">
-      <created>1664314086485</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1664314086485</updated>
-    </task>
-    <task id="LOCAL-00010" summary="code into kotlin">
-      <created>1664822193684</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1664822193684</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&quot;fix&quot;">
-      <created>1665069822092</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1665069822092</updated>
-    </task>
-    <task id="LOCAL-00012" summary="&quot;fix&quot;">
-      <created>1665621123520</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1665621123520</updated>
-    </task>
-    <task id="LOCAL-00013" summary="&quot;fix&quot;">
-      <created>1665621185003</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1665621185003</updated>
-    </task>
-    <task id="LOCAL-00014" summary="&quot;fix&quot;">
-      <created>1665621303911</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1665621303911</updated>
-    </task>
-    <task id="LOCAL-00015" summary="&quot;fix&quot;">
-      <created>1665668559661</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1665668559661</updated>
-    </task>
-    <task id="LOCAL-00016" summary="adding, fixing">
-      <created>1665668635646</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665668635646</updated>
-    </task>
-    <task id="LOCAL-00017" summary="fixing error.kt">
-      <created>1665669410366</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1665669410366</updated>
-    </task>
-    <task id="LOCAL-00018" summary="fixed star">
-      <created>1665672944630</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1665672944630</updated>
-    </task>
-    <task id="LOCAL-00019" summary="remove java scanner, add readline.">
-      <created>1665675748802</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1665675748802</updated>
-    </task>
-    <task id="LOCAL-00020" summary="add to folder">
-      <created>1665675922799</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1665675922799</updated>
-    </task>
-    <task id="LOCAL-00021" summary="fixed">
-      <created>1665681973400</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1665681973400</updated>
-    </task>
-    <task id="LOCAL-00022" summary="week 5 add">
-      <created>1666567291327</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1666567291327</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,18 +104,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add work" />
     <MESSAGE value="some class work from week 2 through 4." />
-    <MESSAGE value="some class work from week week 3" />
-    <MESSAGE value="homework for both week 3 and all of week 4." />
-    <MESSAGE value="no longer using the scanner" />
-    <MESSAGE value="code into kotlin" />
-    <MESSAGE value="&quot;fix&quot;" />
-    <MESSAGE value="adding, fixing" />
-    <MESSAGE value="fixing error.kt" />
-    <MESSAGE value="fixed star" />
-    <MESSAGE value="remove java scanner, add readline." />
-    <MESSAGE value="add to folder" />
-    <MESSAGE value="fixed" />
-    <MESSAGE value="week 5 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="some class work from week 2 through 4." />
   </component>
 </project>
