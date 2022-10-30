@@ -1,0 +1,640 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AnalysisUIOptions\">\n    <option name=\"SCOPE_TYPE\" value=\"3\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"db8a14d3-0621-4c86-94f6-5f36eb4b29d5\" name=\"Changes\" comment=\"some class work from week 2 through 4.\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Kotlin File\" />\n        <option value=\"Kotlin Class\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"ProjectErrors\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2EUM5S55g8T1P6jlDRGmlrNae5l\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"last_opened_file_path\": \"/Users/florencio/IdeaProjects/itse1329/src/main/kotlin\",\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main/kotlin\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main/kotlin\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"db8a14d3-0621-4c86-94f6-5f36eb4b29d5\" name=\"Changes\" comment=\"\" />\n      <created>1662645526347</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1662645526347</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"add work\">\n      <created>1662649980989</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1662649980989</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"some class work from week 2 through 4.\">\n      <created>1663853933538</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1663853933538</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"some class work from week 2 through 4.\">\n      <created>1663854835084</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1663854835084</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\n                <map>\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"add work\" />\n    <MESSAGE value=\"some class work from week 2 through 4.\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"some class work from week 2 through 4.\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f8a80f5b1fd7cb5b40baae1a7e8fa1143cb72371)
++++ b/.idea/workspace.xml	(date 1666560764973)
+@@ -4,7 +4,23 @@
+     <option name="SCOPE_TYPE" value="3" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="some class work from week 2 through 4." />
++    <list default="true" id="db8a14d3-0621-4c86-94f6-5f36eb4b29d5" name="Changes" comment="fixed">
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week01/score.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week03/pop.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/CelsiusTable.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/FallingDistance.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/Fibonacci.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/PriceCalculator.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/PrimeTime.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/RecursiveFunctions.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/RockPaperScissorsGame.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/StockProfit.kt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/kotlin/week05/game.kt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/food.kt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week04/number.kt" beforeDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -13,9 +29,9 @@
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+-        <option value="Kotlin File" />
+         <option value="Kotlin Class" />
+         <option value="Class" />
++        <option value="Kotlin File" />
+       </list>
+     </option>
+   </component>
+@@ -26,7 +42,8 @@
+     <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProblemsViewState">
+-    <option name="selectedTabId" value="ProjectErrors" />
++    <option name="selectedTabId" value="CurrentFile" />
++    <option name="showPreview" value="true" />
+   </component>
+   <component name="ProjectId" id="2EUM5S55g8T1P6jlDRGmlrNae5l" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -34,15 +51,15 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "/Users/florencio/IdeaProjects/itse1329/src/main/kotlin",
+-    "run.code.analysis.last.selected.profile": "pProject Default"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/florencio/IdeaProjects/itse1329/src/main/kotlin&quot;,
++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/src/main/kotlin" />
+@@ -81,7 +98,133 @@
+       <option name="project" value="LOCAL" />
+       <updated>1663854835084</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="some class work from week 2 through 4.">
++      <created>1663855198424</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1663855198424</updated>
++    </task>
++    <task id="LOCAL-00005" summary="some class work from week week 3">
++      <created>1664072433098</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1664072433098</updated>
++    </task>
++    <task id="LOCAL-00006" summary="homework for both week 3 and all of week 4.">
++      <created>1664146794893</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1664146794893</updated>
++    </task>
++    <task id="LOCAL-00007" summary="no longer using the scanner">
++      <created>1664252553391</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1664252553391</updated>
++    </task>
++    <task id="LOCAL-00008" summary="no longer using the scanner">
++      <created>1664254979781</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1664254979781</updated>
++    </task>
++    <task id="LOCAL-00009" summary="code into kotlin">
++      <created>1664314086485</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1664314086485</updated>
++    </task>
++    <task id="LOCAL-00010" summary="code into kotlin">
++      <created>1664822193684</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1664822193684</updated>
++    </task>
++    <task id="LOCAL-00011" summary="&quot;fix&quot;">
++      <created>1665069822092</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1665069822092</updated>
++    </task>
++    <task id="LOCAL-00012" summary="&quot;fix&quot;">
++      <created>1665621123520</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1665621123520</updated>
++    </task>
++    <task id="LOCAL-00013" summary="&quot;fix&quot;">
++      <created>1665621185003</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1665621185003</updated>
++    </task>
++    <task id="LOCAL-00014" summary="&quot;fix&quot;">
++      <created>1665621303911</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1665621303911</updated>
++    </task>
++    <task id="LOCAL-00015" summary="&quot;fix&quot;">
++      <created>1665668559661</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1665668559661</updated>
++    </task>
++    <task id="LOCAL-00016" summary="adding, fixing">
++      <created>1665668635646</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1665668635646</updated>
++    </task>
++    <task id="LOCAL-00017" summary="fixing error.kt">
++      <created>1665669410366</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1665669410366</updated>
++    </task>
++    <task id="LOCAL-00018" summary="fixed star">
++      <created>1665672944630</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1665672944630</updated>
++    </task>
++    <task id="LOCAL-00019" summary="remove java scanner, add readline.">
++      <created>1665675748802</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1665675748802</updated>
++    </task>
++    <task id="LOCAL-00020" summary="add to folder">
++      <created>1665675922799</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1665675922799</updated>
++    </task>
++    <task id="LOCAL-00021" summary="fixed">
++      <created>1665681973400</created>
++      <option name="number" value="00021" />
++      <option name="presentableId" value="LOCAL-00021" />
++      <option name="project" value="LOCAL" />
++      <updated>1665681973400</updated>
++    </task>
++    <option name="localTasksCounter" value="22" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -104,6 +247,17 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="add work" />
+     <MESSAGE value="some class work from week 2 through 4." />
+-    <option name="LAST_COMMIT_MESSAGE" value="some class work from week 2 through 4." />
++    <MESSAGE value="some class work from week week 3" />
++    <MESSAGE value="homework for both week 3 and all of week 4." />
++    <MESSAGE value="no longer using the scanner" />
++    <MESSAGE value="code into kotlin" />
++    <MESSAGE value="&quot;fix&quot;" />
++    <MESSAGE value="adding, fixing" />
++    <MESSAGE value="fixing error.kt" />
++    <MESSAGE value="fixed star" />
++    <MESSAGE value="remove java scanner, add readline." />
++    <MESSAGE value="add to folder" />
++    <MESSAGE value="fixed" />
++    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/main/kotlin/week04/number.kt
+===================================================================
+diff --git a/src/main/kotlin/week04/number.kt b/src/main/kotlin/week04/number.kt
+deleted file mode 100644
+--- a/src/main/kotlin/week04/number.kt	(revision f8a80f5b1fd7cb5b40baae1a7e8fa1143cb72371)
++++ /dev/null	(revision f8a80f5b1fd7cb5b40baae1a7e8fa1143cb72371)
+@@ -1,24 +0,0 @@
+-package week04
+-
+-// Florencio rueda 4.5 Random Number Guessing Game 09/ 20/ 22
+-fun main() {
+-    val r = (0..10).random()
+-
+-    println("Your guess")
+-    val guess = Integer.valueOf(readLine())
+-
+-    println("My number:" + r)
+-    println("Your guess:")
+-    println(message = guess)
+-
+-    if (guess < r) {
+-        println("Your guess is too Low, try again.")
+-    }
+-    if (guess > r) {
+-        println("Your guess is too high, try again")
+-    }
+-    if (guess == r) {
+-        println("Your guess is correct!")
+-    }
+-
+-}
+\ No newline at end of file
+Index: src/main/kotlin/week03/food.kt
+===================================================================
+diff --git a/src/main/kotlin/week03/food.kt b/src/main/kotlin/week03/food.kt
+deleted file mode 100644
+--- a/src/main/kotlin/week03/food.kt	(revision f8a80f5b1fd7cb5b40baae1a7e8fa1143cb72371)
++++ /dev/null	(revision f8a80f5b1fd7cb5b40baae1a7e8fa1143cb72371)
+@@ -1,62 +0,0 @@
+-package week03
+-//Florencio rueda 3.7 Restaurant Selector 09/25/22
+-import java.util.*
+-
+-    fun main(args: Array<String>) {
+-        val n = Scanner(System.`in`)
+-        val vegetarian: String
+-        val vegan: String
+-        val gluten_free: String
+-        println("Is anyone in your party a vegetarian? [y/n]")
+-        vegetarian = n.nextLine()
+-        if (vegetarian == "y" || vegetarian == "n") {
+-            println("Is anyone in your party a vegan? [y/n] ")
+-            vegan = n.nextLine()
+-            if (vegan == "y" || vegan == "n") {
+-                println("Is anyone in your party a gluten-free? [y/n] ")
+-                gluten_free = n.nextLine()
+-                if (gluten_free == "y" || gluten_free == "n") {
+-                    println("Here are your restaurant choices:")
+-                    println("")
+-                    if (vegetarian == "y") {
+-                        if (vegan == "y") {
+-                            if (gluten_free == "y" || gluten_free == "n") {
+-                                println("   Corner Cafe")
+-                                println("   The Chef's Kitchen")
+-                            }
+-                        } else {
+-                            if (gluten_free == "y") {
+-                                println("   Main Street Pizza Company")
+-                                println("   Corner Cafe")
+-                                println("   The Chef's Kitchen")
+-                            } else {
+-                                println("   Main Street Pizza Company")
+-                                println("   Corner Cafe")
+-                                println("   Mama's Fine Italian")
+-                                println("   The Chef's Kitchen")
+-                            }
+-                        }
+-                    } else {
+-                        if (vegan == "y") {
+-                            if (gluten_free == "y" || gluten_free == "n") {
+-                                println("   Corner Cafe")
+-                                println("   The Chef's Kitchen")
+-                            }
+-                        } else {
+-                            if (gluten_free == "y") {
+-                                println("   Main Street Pizza Company")
+-                                println("   Corner Cafe")
+-                                println("   The Chef's Kitchen")
+-                            } else {
+-                                println("   Joe's Gourmet Burgers")
+-                                println("   Main Street Pizza Company")
+-                                println("   Corner Cafe")
+-                                println("   Mama's Fine Italian")
+-                                println("   The Chef's Kitchen")
+-                            }
+-                        }
+-                    }
+-                }
+-            }
+-        }
+-    }
+Index: src/main/kotlin/week05/game.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/week05/game.kt b/src/main/kotlin/week05/game.kt
+new file mode 100644
+--- /dev/null	(date 1666566971128)
++++ b/src/main/kotlin/week05/game.kt	(date 1666566971128)
+@@ -0,0 +1,79 @@
++package week05
++
++
++        fun main(args: Array<String>) {
++
++            //creating scanner object
++           // val ob = readLine()
++
++            //infinite loop
++            while (true) {
++                //calling userChoice method
++                val user = userChoice()
++
++                //calling computerChoice() method
++                val computer = computerChoice()
++
++                //determining the winner
++                determineWinner(user, computer)
++
++                //play again choice
++                val r = playAgain()
++                if (r == true) continue else break
++            }
++        }
++
++        //method to get the user choice
++        fun userChoice(): Char {
++            //menu
++            println(" 1. rock (r)")
++            println(" 2. paper (p)")
++            println(" 3. scissors (s)")
++
++            //creating scanner object
++            val ob2 = readLine()
++            print("Enter your choice: ")
++
++            //getting user choice
++            val c = ob2
++            return c!!.first()
++        }
++
++        //method for computer choice
++        fun computerChoice(): Char {
++            val min = 1
++            val max = 3
++
++            //creating random object
++            val rand = Math.random()
++
++            //generating random number between 1 and 3
++            val randomNum = (rand * (max - min + 1) + min).toInt()
++
++
++            //returning the corresponding character
++            if (randomNum == 1) return 'r'
++            if (randomNum == 2) return 'p'
++            return if (randomNum == 3) 's' else Character.MIN_VALUE
++        }
++
++        //method to determine the winner
++        fun determineWinner(user: Char, computer: Char ) {
++            //depends upon the choice of user and computer any one of the block will be executed
++            if (user == computer) println("\nDraw!") else if (user == 'r') {
++                if (computer == 'p') println("\nYou lose! paper covers rock") else println("\nYou win! rock smashes scissors")
++            } else if (user == 'p') {
++                if (computer == 's') println("\nYou lose! Scissors cut paper") else println("\nYou win! paper covers rock")
++            } else if (user == 's') {
++                if (computer == 'r') println("\nYou lose... rock smashes scissors") else println("\nYou win! Scissors cut paper")
++            }
++        }
++
++        //method to get the choice of continuing the game
++        fun playAgain(): Boolean {
++            val ob3 = readLine()
++            print("\n\nDo you want to play Again (y/n): ")
++            val c = ob3
++            if (c!!.first() == 'y') return true
++            return if (c[0] == 'n') false else false
++        }
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1665621213544)
++++ b/.idea/uiDesigner.xml	(date 1665621213544)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/kotlin/week01/score.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/week01/score.java b/src/main/kotlin/week01/score.java
+new file mode 100644
+--- /dev/null	(date 1665621207430)
++++ b/src/main/kotlin/week01/score.java	(date 1665621207430)
+@@ -0,0 +1,24 @@
++package week01;
++
++public class score {
++    public static void main(String[] args) {
++        int first = 4;//score of the first player
++        int second = 5;//score of the second player
++        boolean firstStarted = true;//variable telling which player started first
++        int winner;//variable to store the winner
++        // Script to determine the winner
++        if (first > second) {
++            winner = 1;
++        } else if (second > first) {
++            winner = 2;
++        } else {
++            if (firstStarted) {
++                winner = 2;
++            } else {
++                winner = 1;
++            }
++        }
++    }
++}
++
++
+Index: src/main/kotlin/week03/pop.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/week03/pop.kt b/src/main/kotlin/week03/pop.kt
+new file mode 100644
+--- /dev/null	(date 1665675033037)
++++ b/src/main/kotlin/week03/pop.kt	(date 1665675033037)
+@@ -0,0 +1,35 @@
++package week03
++
++
++fun main(args: Array<String>) {
++
++    var days: Int
++    var organisms = 0.0
++    var increaseRate = 0.0
++    print("Number of organisms: ")
++    organisms = readLine()!!.toDouble()
++    while (organisms < 2) {
++        print("Invalid entry. Re-enter a value greater than 1: ")
++        organisms = readLine()!!.toDouble()
++    }
++    print("Number of days to multiply: ")
++    days = Integer.valueOf(readLine())
++    while (days < 1) {
++        print("Invalid entry. Re-enter a value greater than 0: ")
++        days = Integer.valueOf(readLine())
++    }
++    print("Percentage of increase: ")
++    increaseRate = readLine()!!.toDouble() / 100
++    while (increaseRate < 0) {
++        print("Invalid entry. Re-enter a non-negative value: ")
++        increaseRate = readLine()!!.toDouble()
++    }
++    println("")
++    println("Day" + "\tPopulation" + "\tPercent of Increase")
++    println("  1 \t" + organisms)
++    for (i in 2 until days + 1) {
++        organisms += increaseRate.let { organisms *= it; organisms }
++        println("  " + i + "           " + Math.ceil(organisms) + "                " + increaseRate * 100 + "%")
++    }
++}
++// 6, 33,56
+\ No newline at end of file
